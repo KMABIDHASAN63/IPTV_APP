@@ -4,14 +4,16 @@
 
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENTS",
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENTS",
+#EXTINF:-1 tvg-logo="" group-title="FANCODE LIVE",
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENTS",
+#EXTINF:-1 tvg-logo="" group-title="FANCODE LIVE",
+
+#EXTINF:-1 tvg-logo="" group-title="FANCODE LIVE",
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", T SPORTS LIVE 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vzn1T3s/20240809-193520.png" group-title="SPORTS", T SPORTS LIVE 1
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", T SPORTS LIVE 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z2K5ncs/20240809-193440.png" group-title="SPORTS", T SPORTS LIVE 2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mq9N4yD/20240803-110909.png" group-title="SPORTS", SONY SPORTS TEN 1 HD
 
@@ -23,7 +25,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0FdSJmp/20240803-111025.png" group-title="SPORTS", SONY SPORTS TEN 5 HD
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b6MhFny/20240809-192718.png" group-title="SPORTS", STAR SPORTS 1 HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yX95xpL/20240803-111059.png" group-title="SPORTS", STAR SPORTS 2 HD
 
@@ -31,15 +33,15 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FW8v6Vz/20240803-111134.png" group-title="SPORTS", SPORTS 18 HD
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SKY SPORTS CRICKET HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s2HfLvt/20240809-192038.png" group-title="SPORTS", SKY SPORTS CRICKET HD
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", TEN CRICKET HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MD3rxz3/20240809-192115.png" group-title="SPORTS", TEN SPORTS HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c3W1fDB/20240803-171519.png" group-title="SPORTS", SSC 1 HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8bTMZ5d/20240803-112456.png" group-title="SPORTS", TNT SPORTS HD
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", BEIN SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G3QJq5n/20240809-192140.png" group-title="SPORTS", BEIN SPORTS HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P6m9485/20240804-032952.png" group-title="SPORTS", ASTRO CRICKET HD
 
@@ -51,10 +53,10 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k5FMpsF/20240803-112725.png" group-title="SPORTS", WILLOW HD
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", FOX CRICKET HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PmmdtPj/20240809-192209.png" group-title="SPORTS", FOX CRICKET HD
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", PRIME SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fStnWKY/20240809-192248.png" group-title="SPORTS", PRIME SPORTS HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R2WnvSN/20240803-112623.png" group-title="SPORTS", WWE HD
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SONY LIV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1D0xvW/20240809-192842.png" group-title="SPORTS", SONY LIV HD
