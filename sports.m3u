@@ -1,14 +1,15 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENTS",
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8zGL89/20240809-194731.png" group-title="LIVE EVENTS",
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENTS",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8zGL89/20240809-194731.png" group-title="LIVE EVENTS",
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENTS",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8zGL89/20240809-194731.png" group-title="LIVE EVENTS",
 
-#EXTINF:-1 tvg-logo="" group-title="FANCODE LIVE",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gF3hKnM/20240809-194351.png" group-title="FANCODE LIVE",
 
-#EXTINF:-1 tvg-logo="" group-title="FANCODE LIVE",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gF3hKnM/20240809-194351.png" group-title="FANCODE LIVE",
 
-#EXTINF:-1 tvg-logo="" group-title="FANCODE LIVE",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gF3hKnM/20240809-194351.png" group-title="FANCODE LIVE",
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vzn1T3s/20240809-193520.png" group-title="SPORTS", T SPORTS LIVE 1
@@ -24,19 +25,19 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LRd4SfJ/20240804-145538.png" group-title="SPORTS", SONY SPORTS TEN 4 HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0FdSJmp/20240803-111025.png" group-title="SPORTS", SONY SPORTS TEN 5 HD
-
+http://humsab.xyz/S_Ten5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6MhFny/20240809-192718.png" group-title="SPORTS", STAR SPORTS 1 HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yX95xpL/20240803-111059.png" group-title="SPORTS", STAR SPORTS 2 HD
-
+http://144.178.85.10:8080/ESPN2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1qTY5MF/20240803-171500.png" group-title="SPORTS", ESPN HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FW8v6Vz/20240803-111134.png" group-title="SPORTS", SPORTS 18 HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2HfLvt/20240809-192038.png" group-title="SPORTS", SKY SPORTS CRICKET HD
-
+https://ddy1.mizhls.ru:443/ddy1/premium65/tracks-v1a1/mono.m3u8?|referer=https://weblivehdplay.ru/&user-agent=ms.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MD3rxz3/20240809-192115.png" group-title="SPORTS", TEN SPORTS HD
-
+https://sltlivetestgcp.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c3W1fDB/20240803-171519.png" group-title="SPORTS", SSC 1 HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8bTMZ5d/20240803-112456.png" group-title="SPORTS", TNT SPORTS HD
@@ -44,7 +45,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3QJq5n/20240809-192140.png" group-title="SPORTS", BEIN SPORTS HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P6m9485/20240804-032952.png" group-title="SPORTS", ASTRO CRICKET HD
-
+https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SnHJF1X/20240803-112657.png" group-title="SPORTS", A SPORTS HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cT2q86b/20240803-112606.png" group-title="SPORTS", PTV SPORTS HD
